@@ -32,119 +32,135 @@ Alongside these ambitions, I aim to hone my 3D modeling skills to create vibrant
 
 Ultimately, my dream is to bring all these passions together to create a game that is not only fun to play but also builds a strong, vibrant community like those surrounding Valve games. I want to develop experiences that resonate with players, fostering connection and creativity, so that one day, when people see my name, they’ll say, “That’s the person who made that incredible game!”
 
-
 # Game Projects
 
 # Gaya Sa Istorya
 <img width="2556" height="1435" alt="image" src="https://github.com/user-attachments/assets/64bfa7c9-1aa8-450c-a4e2-1a21a0c72f95" />
-Developed a 2.5D narrative life simulation game in Unity
 
-3D Modeler and Level Designer
+Developed a 2.5D narrative life simulation game in Unity  
 
-Used blender
+**3D Modeler** and **Level Designer**  
 
-The game is our Main Thesis at University of the East
+Used Blender  
 
-Published game in Itch.io: https://fathomstudents.itch.io/gaya-sa-istorya
+The game is our Main Thesis at University of the East  
+
+Published game in Itch.io: https://fathomstudents.itch.io/gaya-sa-istorya  
+
 
 # Cat in Time
-Developed a 2D platformer game in Unity
+<img width="2060" height="1457" alt="image" src="https://github.com/user-attachments/assets/14996abc-1c8e-4c8c-8574-6b5baa14a2bd" />
 
-Lead Programmer
+Developed a 2D platformer game in Unity  
 
-Used C# programming software
+**Lead Programmer**  
 
-Published game in Itch.io: https://fathomstudents.itch.io/cat-in-time
+Used C# programming software  
+
+Published game in Itch.io: https://fathomstudents.itch.io/cat-in-time  
+
 
 # Habilin
-Developed a 2D top-down narrative game in Unity
+Developed a 2D top-down narrative game in Unity  
 
-Lead Programmer
+**Lead Programmer**  
 
-Used C# programming software
+Used C# programming software  
 
-The game was used as an entry for Game Jam Los Baños 2025
+The game was used as an entry for Game Jam Los Baños 2025  
 
-Published game in Itch.io: https://fathomstudents.itch.io/habilin
+Published game in Itch.io: https://fathomstudents.itch.io/habilin  
+
 
 # Final Culture
-Composed music and audio for a 2D psychological horror puzzle game in Unity
+<img width="1920" height="1080" alt="ALDRIN-KeyArt2-TRIAL" src="https://github.com/user-attachments/assets/8cd7e393-3c22-4d92-8c70-c5f1db12d136" />
 
-Sound Designer and Music Composer
+Composed music and audio for a 2D psychological horror puzzle game in Unity  
 
-Used this website for composition: https://signal.vercel.app and Adobe Audition for sound design 
+**Sound Designer** and **Music Composer**  
 
-The game was used as an entry for Aral Arcade GameJam 2025
+Used Signal and Adobe Audition for composition and sound design  
 
-Published game in Itch.io: https://fathomstudents.itch.io/final-culture
+The game was used as an entry for Aral Arcade GameJam 2025  
+
+Published game in Itch.io: https://fathomstudents.itch.io/final-culture  
+
 
 # Croshie to the Stars
-Developed a 2D survival shooter in Unity
+<img width="1804" height="1196" alt="image" src="https://github.com/user-attachments/assets/c7e2edd5-4e91-44f2-af64-0716c5ae14d5" />
 
-Programmer
+Developed a 2D survival shooter in Unity  
 
-Used C# programming software
+**Programmer**  
 
-The game was used as an entry for Global Game Jam 2025 at Benilde. 
+Used C# programming software  
 
-Published game on Itch.io: https://fathomstudents.itch.io/croshie-to-the-stars
+The game was used as an entry for Global Game Jam 2025 at Benilde  
+
+Published game on Itch.io: https://fathomstudents.itch.io/croshie-to-the-stars  
+
 
 # I Cast Boulder
-Designed and developed a 3D mobile destruction game in Unity
+Designed and developed a 3D mobile destruction game in Unity  
 
-Main Developer
+**Main Developer**  
 
-Used C# programming software and 3D models made in blender
+Used C# programming software and 3D models made in Blender  
+
 
 # Boy Banawag: Ang Unang Kislap
 ![image](https://github.com/user-attachments/assets/59cb0a46-1ae8-48e5-aa66-a6412f7fbd28)
-Developed a 2D Pixel Top-down beat 'em up in Unity
 
-Main Programmer
+Developed a 2D pixel top-down beat 'em up in Unity  
 
-Used C# programming software
+**Main Programmer**  
 
-The game was used as an entry for Buwan Ng Wika GameJam 2024 and Youth Creative Challenge Season 2 (Game Development)
+Used C# programming software  
 
-Published game in Itch.io: https://fathomstudents.itch.io/boy-banawag-ang-unang-kislap
+The game was used as an entry for Buwan Ng Wika GameJam 2024 and Youth Creative Challenge Season 2  
+
+Published game in Itch.io: https://fathomstudents.itch.io/boy-banawag-ang-unang-kislap  
+
 
 # Soliloquy
-Developed a story-based obby platformer in Roblox
+Developed a story-based obby platformer in Roblox  
 
-Lead Programmer
+**Lead Programmer**  
 
-Used Lua programming software
+Used Lua programming software  
 
-The game was used as an entry for Game Changers! Go Gaming Game Jam
+The game was used as an entry for Game Changers! Go Gaming Game Jam  
 
 
 # Tikim Tales
 ![image](https://github.com/user-attachments/assets/681b8323-df40-4ab1-ae95-3accfdfc10f5)
-Designed and developed a 3D cooking simulation in Unity
 
-Main Programmer
+Designed and developed a 3D cooking simulation in Unity  
 
-Used C# programming software
+**Main Programmer**  
 
-Published game in Itch.io: https://fathomstudents.itch.io/tikim-tales
+Used C# programming software  
+
+Published game in Itch.io: https://fathomstudents.itch.io/tikim-tales  
+
 
 # Slime Survivors
 ![image](https://github.com/user-attachments/assets/086dbf27-cc98-4df1-bdaa-bb5f55e92736)
-Designed and developed a 2D roguelike hack and slash in Unity
 
-Main Developer
+Designed and developed a 2D roguelike hack and slash in Unity  
 
-Used C# programming software
+**Main Developer**  
 
-Published game on Itch.io: https://quickblade.itch.io/slime-survivors
+Used C# programming software  
+
+Published game on Itch.io: https://quickblade.itch.io/slime-survivors  
+
 
 # Carnival of Lies
-Developed a psychological horror visual novel in Unity
+Developed a psychological horror visual novel in Unity  
 
-Programmer
+**Programmer**  
 
-Used C# programming software
+Used C# programming software  
 
 Published game on Itch.io: https://fathomstudents.itch.io/carnival-of-lies
-
-
