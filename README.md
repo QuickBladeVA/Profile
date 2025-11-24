@@ -35,121 +35,116 @@ Ultimately, my dream is to bring all these passions together to create a game th
 
 # Game Projects
 
-# Slime Survivors
-![image](https://github.com/user-attachments/assets/086dbf27-cc98-4df1-bdaa-bb5f55e92736)
-
-Designed and developed a 2D -roguelike, hack and slash in Unity, Where your goal is to fight and survive the slime-infested forest
-
-Programmed the UI Navigation, Player and Enemy Movement, Entity Spawn, And Game Over System
-
-Used C# programming software
-
-Published game in Itch.io https://quickblade.itch.io/slime-survivors
-
-# Tikim Tales
-![image](https://github.com/user-attachments/assets/681b8323-df40-4ab1-ae95-3accfdfc10f5)
-
-Designed and developed a 3D - cooking simulation in Unity, A cooking mama parody with filipino cuisine
-
-Lead Programmer and programmed UI and Gameplay Navigation, Minigames, and Item Interaction
-
-Used C# programming software
-
-Published game in Itch.io https://fathomstudents.itch.io/tikim-tales
-
-# Soliloquy
-Developed a story based, obby platformer in Roblox, Won Best in Concept Award
-
-Lead Programmer and programmed Spawn and Checkpoints, Enemy AI, Animations
-
-Used Lua programming software
-
-Game was used as entry for Game Changers! Go Gaming Game Jam
-
-# Boy Banawag: Ang Unang Kislap
-![image](https://github.com/user-attachments/assets/59cb0a46-1ae8-48e5-aa66-a6412f7fbd28)
-
-Designed and developed a 2D Pixel Top-down Beat Em Up in Unity
-
-Lead Programmer and programmed the Battle Scripts such as (Battle mechanics/Gameplay, Game Design, Enemy AI) and some Level scripts
-
-Used C# programming software
-
-Published game in Itch.io https://fathomstudents.itch.io/boy-banawag-ang-unang-kislap
-
-Game was used as entry for Buwan ng Wika Game Jam https://itch.io/jam/iggphbuwanngwikagamjam2024
-
-
-
-
 # Gaya Sa Istorya
+
 Developed a 2.5D narrative life simulation game in Unity
+
 3D Modeler and Level Designer
+
 Used blender
+
 The game is our Main Thesis at University of the East
+
 Published game in Itch.io: https://fathomstudents.itch.io/gaya-sa-istorya
 
 # Cat in Time
 Developed a 2D platformer game in Unity
+
 Lead Programmer
+
 Used C# programming software
+
 Published game in Itch.io: https://fathomstudents.itch.io/cat-in-time
 
 # Habilin
 Developed a 2D top-down narrative game in Unity
+
 Lead Programmer
+
 Used C# programming software
+
 The game was used as an entry for Game Jam Los Baños 2025
+
 Published game in Itch.io: https://fathomstudents.itch.io/habilin
 
 # Final Culture
 Composed music and audio for a 2D psychological horror puzzle game in Unity
+
 Sound Designer and Music Composer
+
 Used this website for composition: https://signal.vercel.app and Adobe Audition for sound design 
+
 The game was used as an entry for Aral Arcade GameJam 2025
+
 Published game in Itch.io: https://fathomstudents.itch.io/final-culture
 
 # Croshie to the Stars
 Developed a 2D survival shooter in Unity
+
 Programmer
+
 Used C# programming software
+
 The game was used as an entry for Global Game Jam 2025 at Benilde. 
+
 Published game on Itch.io: https://fathomstudents.itch.io/croshie-to-the-stars
 
 # I Cast Boulder
 Designed and developed a 3D mobile destruction game in Unity
+
 Main Developer
+
 Used C# programming software and 3D models made in blender
 
 # Boy Banawag: Ang Unang Kislap
+![image](https://github.com/user-attachments/assets/59cb0a46-1ae8-48e5-aa66-a6412f7fbd28)
 Developed a 2D Pixel Top-down beat 'em up in Unity
+
 Main Programmer
+
 Used C# programming software
+
 The game was used as an entry for Buwan Ng Wika GameJam 2024 and Youth Creative Challenge Season 2 (Game Development)
+
 Published game in Itch.io: https://fathomstudents.itch.io/boy-banawag-ang-unang-kislap
 
 # Soliloquy
 Developed a story-based obby platformer in Roblox
+
 Lead Programmer
+
 Used Lua programming software
+
 The game was used as an entry for Game Changers! Go Gaming Game Jam
 
+
 # Tikim Tales
+![image](https://github.com/user-attachments/assets/681b8323-df40-4ab1-ae95-3accfdfc10f5)
 Designed and developed a 3D cooking simulation in Unity
+
 Main Programmer
+
 Used C# programming software
+
 Published game in Itch.io: https://fathomstudents.itch.io/tikim-tales
 
 # Slime Survivors
+![image](https://github.com/user-attachments/assets/086dbf27-cc98-4df1-bdaa-bb5f55e92736)
 Designed and developed a 2D roguelike hack and slash in Unity
+
 Main Developer
+
 Used C# programming software
+
 Published game on Itch.io: https://quickblade.itch.io/slime-survivors
 
 # Carnival of Lies
 Developed a psychological horror visual novel in Unity
+
 Programmer
+
 Used C# programming software
+
 Published game on Itch.io: https://fathomstudents.itch.io/carnival-of-lies
 
 
