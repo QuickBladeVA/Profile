@@ -1,5 +1,3 @@
-
-You said:
 # Profile
 Hi There, Here is a Profile/Portfolio About me!
 # Who am I
@@ -37,7 +35,6 @@ Ultimately, my dream is to bring all these passions together to create a game th
 # Game Projects
 
 # Gaya Sa Istorya
-<img width="2556" height="1435" alt="image" src="https://github.com/user-attachments/assets/64bfa7c9-1aa8-450c-a4e2-1a21a0c72f95" />
 ![image](https://github.com/user-attachments/assets/64bfa7c9-1aa8-450c-a4e2-1a21a0c72f95)
 Developed a 2.5D narrative life simulation game in Unity  
 
