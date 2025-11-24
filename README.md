@@ -1,7 +1,7 @@
 # Profile
 Hi There, Here is a Profile/Portfolio About me!
 # Who am I
-Hi, I’m Quick, a Game Programmer with a focus on crafting fun and meaningful gaming experiences. As the lead programmer in various team projects under Fathoms (or Fathom Students), I’ve honed my expertise in programming in Unity games.
+Hi, I’m Quick, a Game Developer with a focus on Programming and 3D Modeling. As the lead programmer in various team projects under Fathoms (or Fathom Students), I’ve honed my expertise in programming in Unity games.
 
 Beyond programming, I’m a versatile creative with skills in voice acting, story writing, and 3D modeling. I’ve voiced characters ranging from serious narrators to whimsical fantasy heroes, offering a broad range of styles. My role as a Dungeon Master in Dungeons and Dragons has also sharpened my storytelling and world-building abilities, enabling me to craft memorable stories for players.
 
@@ -18,13 +18,15 @@ Game Engines: Unity, Roblox
 
 3D Modeling: Blender, Maya
 
-Programming & Design Tools: Visual Studio, Photoshop
+Programming & Design Tools: Visual Studio, Photoshop, Figma
 
-Languages: C#, Lua
+Video/Sound Editor: Audacity, Adobe Audition, Davinci Resolve
 
-I want to deepen my coding knowledge and work on increasingly complex programming challenges, with the ultimate goal of creating intelligent systems like ChatGPT—tools that not only simplify workflows but also enhance gaming experiences through smarter NPCs, dynamic storytelling, and groundbreaking mechanics. 
+Languages: C#, Python, Lua
 
-At the same time, I aspire to become a renowned voice actor, lending my voice to an iconic game character that resonates with players and becomes a part of gaming history. Whether it’s a fierce warrior, a whimsical sidekick, or a dramatic narrator, I want my voice to bring characters to life in a way that leaves a lasting impact. 
+I want to learn better coding and work on increasingly complex programming, with the ultimate goal of creating intelligent systems like ChatGPT—tools that simplify workflows and also enhance gaming experiences through smarter NPCs, dynamic storytelling, and gamebreaking mechanics. 
+
+At the same time, I aspire to become a renowned voice actor, being an iconic voice that resonates with players and becomes a part of gaming history. Whether it’s a fierce warrior, a whimsical sidekick, or a dramatic narrator, I want my voice to bring characters to life that gives a lasting impact. 
 
 Alongside these ambitions, I aim to hone my 3D modeling skills to create vibrant and expressive characters, drawing inspiration from the 2D/anime-stylized models in games like Zenless Zone Zero. By mastering this art form, I want to craft memorable characters that feel alive and visually stunning. 
 
@@ -76,4 +78,78 @@ Used C# programming software
 Published game in Itch.io https://fathomstudents.itch.io/boy-banawag-ang-unang-kislap
 
 Game was used as entry for Buwan ng Wika Game Jam https://itch.io/jam/iggphbuwanngwikagamjam2024
+
+
+
+
+# Gaya Sa Istorya
+Developed a 2.5D narrative life simulation game in Unity
+3D Modeler and Level Designer
+Used blender
+The game is our Main Thesis at University of the East
+Published game in Itch.io: https://fathomstudents.itch.io/gaya-sa-istorya
+
+# Cat in Time
+Developed a 2D platformer game in Unity
+Lead Programmer
+Used C# programming software
+Published game in Itch.io: https://fathomstudents.itch.io/cat-in-time
+
+# Habilin
+Developed a 2D top-down narrative game in Unity
+Lead Programmer
+Used C# programming software
+The game was used as an entry for Game Jam Los Baños 2025
+Published game in Itch.io: https://fathomstudents.itch.io/habilin
+
+# Final Culture
+Composed music and audio for a 2D psychological horror puzzle game in Unity
+Sound Designer and Music Composer
+Used this website for composition: https://signal.vercel.app and Adobe Audition for sound design 
+The game was used as an entry for Aral Arcade GameJam 2025
+Published game in Itch.io: https://fathomstudents.itch.io/final-culture
+
+# Croshie to the Stars
+Developed a 2D survival shooter in Unity
+Programmer
+Used C# programming software
+The game was used as an entry for Global Game Jam 2025 at Benilde. 
+Published game on Itch.io: https://fathomstudents.itch.io/croshie-to-the-stars
+
+# I Cast Boulder
+Designed and developed a 3D mobile destruction game in Unity
+Main Developer
+Used C# programming software and 3D models made in blender
+
+# Boy Banawag: Ang Unang Kislap
+Developed a 2D Pixel Top-down beat 'em up in Unity
+Main Programmer
+Used C# programming software
+The game was used as an entry for Buwan Ng Wika GameJam 2024 and Youth Creative Challenge Season 2 (Game Development)
+Published game in Itch.io: https://fathomstudents.itch.io/boy-banawag-ang-unang-kislap
+
+# Soliloquy
+Developed a story-based obby platformer in Roblox
+Lead Programmer
+Used Lua programming software
+The game was used as an entry for Game Changers! Go Gaming Game Jam
+
+# Tikim Tales
+Designed and developed a 3D cooking simulation in Unity
+Main Programmer
+Used C# programming software
+Published game in Itch.io: https://fathomstudents.itch.io/tikim-tales
+
+# Slime Survivors
+Designed and developed a 2D roguelike hack and slash in Unity
+Main Developer
+Used C# programming software
+Published game on Itch.io: https://quickblade.itch.io/slime-survivors
+
+# Carnival of Lies
+Developed a psychological horror visual novel in Unity
+Programmer
+Used C# programming software
+Published game on Itch.io: https://fathomstudents.itch.io/carnival-of-lies
+
 
