@@ -35,7 +35,8 @@ Ultimately, my dream is to bring all these passions together to create a game th
 # Game Projects
 
 # Gaya Sa Istorya
-![image](https://github.com/user-attachments/assets/64bfa7c9-1aa8-450c-a4e2-1a21a0c72f95)
+<img src="https://github.com/user-attachments/assets/64bfa7c9-1aa8-450c-a4e2-1a21a0c72f95" width="1920" height="1080">
+
 Developed a 2.5D narrative life simulation game in Unity  
 
 **3D Modeler** and **Level Designer**  
@@ -48,7 +49,7 @@ Published game in Itch.io: https://fathomstudents.itch.io/gaya-sa-istorya
 
 
 # Cat in Time
-![image](https://github.com/user-attachments/assets/14996abc-1c8e-4c8c-8574-6b5baa14a2bd)
+<img src="https://github.com/user-attachments/assets/14996abc-1c8e-4c8c-8574-6b5baa14a2bd" width="1920" height="1080">
 
 Developed a 2D platformer game in Unity  
 
@@ -72,7 +73,7 @@ Published game in Itch.io: https://fathomstudents.itch.io/habilin
 
 
 # Final Culture
-![image](https://github.com/user-attachments/assets/8cd7e393-3c22-4d92-8c70-c5f1db12d136)
+<img src="https://github.com/user-attachments/assets/8cd7e393-3c22-4d92-8c70-c5f1db12d136" width="1920" height="1080">
 
 Composed music and audio for a 2D psychological horror puzzle game in Unity  
 
@@ -86,7 +87,7 @@ Published game in Itch.io: https://fathomstudents.itch.io/final-culture
 
 
 # Croshie to the Stars
-![image](https://github.com/user-attachments/assets/c7e2edd5-4e91-44f2-af64-0716c5ae14d5)
+<img src="https://github.com/user-attachments/assets/c7e2edd5-4e91-44f2-af64-0716c5ae14d5" width="1920" height="1080">
 
 Developed a 2D survival shooter in Unity  
 
@@ -108,7 +109,7 @@ Used C# programming software and 3D models made in Blender
 
 
 # Boy Banawag: Ang Unang Kislap
-![image](https://github.com/user-attachments/assets/59cb0a46-1ae8-48e5-aa66-a6412f7fbd28)
+<img src="https://github.com/user-attachments/assets/59cb0a46-1ae8-48e5-aa66-a6412f7fbd28" width="1920" height="1080">
 
 Developed a 2D pixel top-down beat 'em up in Unity  
 
@@ -132,7 +133,7 @@ The game was used as an entry for Game Changers! Go Gaming Game Jam
 
 
 # Tikim Tales
-![image](https://github.com/user-attachments/assets/681b8323-df40-4ab1-ae95-3accfdfc10f5)
+<img src="https://github.com/user-attachments/assets/681b8323-df40-4ab1-ae95-3accfdfc10f5" width="1920" height="1080">
 
 Designed and developed a 3D cooking simulation in Unity  
 
@@ -144,7 +145,7 @@ Published game in Itch.io: https://fathomstudents.itch.io/tikim-tales
 
 
 # Slime Survivors
-![image](https://github.com/user-attachments/assets/086dbf27-cc98-4df1-bdaa-bb5f55e92736)
+<img src="https://github.com/user-attachments/assets/086dbf27-cc98-4df1-bdaa-bb5f55e92736" width="1920" height="1080">
 
 Designed and developed a 2D roguelike hack and slash in Unity  
 
